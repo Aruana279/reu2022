@@ -1,0 +1,31 @@
+1.	IEEE conference- sep 15th (special session)
+2.	August 15th-complete computational work
+3.	Feature engineering (SHAP score, random forest)
+4.	Experiments
+a.	Tabular on Extra Sensory
+b.	Per user analysis
+c.	First week of a user’s 
+d.	What features to use
+e.	Machine evaluation
+i.	Train on real, test fake.
+ii.	Train fake, test real
+iii.	Train real+fake, test real vs Train real, test real
+f.	Inception score
+g.	Maybe: FID score
+5.	Vanilla GANs on every class vs Tabular GAN
+6.	Conditional and controllable GAN vs Tabular GAN
+7.	Draft paper
+
+July 5th- request Turing at WPI
+July 7th- working Tabular GAN
+July 8th- feature importance (modular so can change number of features)
+July 12th- every method run on important features for all users
+July 15th- every method run on individual users
+July 18th – rough draft with poster
+July 20th -machine eval pipelines
+July 22nd – inception score
+July 25th – final poster + paper intro
+July 27th – final results + comparison of GANs
+August 3rd- finalize everything
+
+ 

@@ -1,0 +1,28 @@
+1.	Motivate HAR
+2.	What is hard about HAR data
+3.	GAN can solve this issues
+4.	Previous HAR GANs is not tailored twrds continuous/discrete (designed for images, don’t do discrete)
+5.	If we could have discrete features + cont
+6.	Proof
+
+
+Ideas for visuals:
+Left:
+Priaception – phone in hand (on/off)
+Phone in hand, phone in pocket, smartchwatch
+
+
+Center:
+Use of discrete+continuous->
+Data still -> 
+Data still + nighttime -> sleeping
+
+
+Right:
+How diverse (how much variance, results equivalent to the one trained on real data)
+How well it impacts model (how much better against baseline)
+SVM: how separable
+Inception
+
+
+
